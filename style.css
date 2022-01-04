@@ -75,6 +75,7 @@ span{
     text-align: center;
 }
 body{
-    width: auto;
-    height: auto;
+    width:100%;
+    min-width:1000px;
+    height:auto;
 }
