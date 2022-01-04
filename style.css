@@ -74,3 +74,7 @@ span{
 .justify{
     text-align: center;
 }
+body{
+    width: auto;
+    height: auto;
+}
