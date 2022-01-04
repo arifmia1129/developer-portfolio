@@ -74,8 +74,3 @@ span{
 .justify{
     text-align: center;
 }
-body{
-    width:100%;
-    min-width:1000px;
-    height:auto;
-}
